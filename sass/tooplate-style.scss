@@ -141,6 +141,9 @@ b, strong {
     margin-top: 10px;
     width: 550px;
     position: relative;
+	font-size: 0.1rem; /* o cualquier tamaño deseado */
+	width: 180%; /* o cualquier ancho deseado */
+	height: 4400px; /* o cualquier altura deseada */
 }
 
 .animated-item {
@@ -635,9 +638,7 @@ b, strong {
 
 	.about-text {
 		text-align: center;
-		font-size: 0.1rem; /* o cualquier tamaño deseado */
-		width: 180%; /* o cualquier ancho deseado */
-		height: 4400px; /* o cualquier altura deseada */
+
 	}
 
 	.full-screen {
