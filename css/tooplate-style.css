@@ -549,6 +549,7 @@ b, strong {
 
   .about-text {
     text-align: center;
+    font-size: 1.5rem; /* o cualquier tamaño deseado */
     width: 80%; /* o cualquier ancho deseado */
     height: 400px; /* o cualquier altura deseada */
   }
