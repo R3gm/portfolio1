@@ -553,7 +553,7 @@ b, strong {
     text-align: center;
     font-size: 0.1rem; /* o cualquier tamaño deseado */
     width: 180%; /* o cualquier ancho deseado */
-    height: 4400px; /* o cualquier altura deseada */
+    height: 1px; /* o cualquier altura deseada */
   }
 
   .full-screen {
