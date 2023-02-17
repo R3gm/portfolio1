@@ -111,9 +111,8 @@ b, strong {
   display: inline-block;
   vertical-align: top;
   margin-top: 5px;
-  min-width: 60px;
+  min-width: 260px;
   position: relative;
-
 }
 
 .animated-item {
@@ -550,6 +549,9 @@ b, strong {
 
   .about-text {
     text-align: center;
+    font-size: 0.1rem; /* o cualquier tamaño deseado */
+    width: 180%; /* o cualquier ancho deseado */
+    height: 4400px; /* o cualquier altura deseada */
   }
 
   .full-screen {
