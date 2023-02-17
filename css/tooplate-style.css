@@ -114,7 +114,7 @@ b, strong {
   min-width: 860px;
   position: relative;
   font-size: 99px; /* o cualquier tamaño deseado */
-	height: 4400px; /* o cualquier altura deseada */
+	height: 1px; /* o cualquier altura deseada */
 }
 
 .animated-item {
