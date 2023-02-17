@@ -111,10 +111,9 @@ b, strong {
   display: inline-block;
   vertical-align: top;
   margin-top: 5px;
-  min-width: 860px;
+  min-width: 60px;
   position: relative;
-  font-size: 99px; /* o cualquier tamaño deseado */
-	height: 1px; /* o cualquier altura deseada */
+
 }
 
 .animated-item {
